@@ -8,4 +8,4 @@ Results in a discrete gradient where the shape of the bands becomes more irregul
 
 I like this type of visual, and I think it's an interesting depiction of entropic behaviour. 
 
-[Sunrise](jitter_plots/sunrise.png)
+![](jitter_plots/sunrise.png)
